@@ -10,3 +10,5 @@ Git has a mutable index called stage
 Git tracks changes
 
 love is lover
+
+Creating a new branch is quick & simple.
