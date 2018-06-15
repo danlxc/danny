@@ -13,7 +13,4 @@ love is lover
 
 Creating a new branch is quick AND simple.
 
-
-aaaaaaaa---first
-
-bbbbbbbb===seconde
+>>>>>>> parent of 76d3317... aaa
